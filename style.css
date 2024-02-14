@@ -1,0 +1,25 @@
+.center {
+  display: block;
+  margin: auto;
+  width: 50%;
+}
+html {
+  background: #680a0a;
+}
+h1 {
+  color: #680a0a;
+}
+body {
+  /* center fixed width layout */
+  background-color: white;
+  border: 2px white;
+  border-radius: 10px;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px 50px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.PB {
+  color: #680a0a;
+}
